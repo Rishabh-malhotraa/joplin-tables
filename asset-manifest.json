@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/joplin-tables/static/css/main.5c70208b.chunk.css",
+    "main.js": "/joplin-tables/static/js/main.0e9ebfa7.chunk.js",
+    "main.js.map": "/joplin-tables/static/js/main.0e9ebfa7.chunk.js.map",
+    "runtime-main.js": "/joplin-tables/static/js/runtime-main.39e13116.js",
+    "runtime-main.js.map": "/joplin-tables/static/js/runtime-main.39e13116.js.map",
+    "static/js/2.07984dc0.chunk.js": "/joplin-tables/static/js/2.07984dc0.chunk.js",
+    "static/js/2.07984dc0.chunk.js.map": "/joplin-tables/static/js/2.07984dc0.chunk.js.map",
+    "index.html": "/joplin-tables/index.html",
+    "precache-manifest.fcdeeebf8499200fdad297b888268b91.js": "/joplin-tables/precache-manifest.fcdeeebf8499200fdad297b888268b91.js",
+    "service-worker.js": "/joplin-tables/service-worker.js",
+    "static/css/main.5c70208b.chunk.css.map": "/joplin-tables/static/css/main.5c70208b.chunk.css.map",
+    "static/js/2.07984dc0.chunk.js.LICENSE.txt": "/joplin-tables/static/js/2.07984dc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39e13116.js",
+    "static/js/2.07984dc0.chunk.js",
+    "static/css/main.5c70208b.chunk.css",
+    "static/js/main.0e9ebfa7.chunk.js"
+  ]
+}
