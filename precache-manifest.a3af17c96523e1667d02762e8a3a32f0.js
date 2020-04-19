@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3e66cc1e963508d24f5254c7e9baf3d",
+    "revision": "1cdfe8660e7e4a3d988799d85fca3ce8",
     "url": "/joplin-tables/index.html"
   },
   {
-    "revision": "050a48330f5742555a1e",
-    "url": "/joplin-tables/static/css/main.317703ec.chunk.css"
+    "revision": "4cdacf838a3003c44661",
+    "url": "/joplin-tables/static/css/main.b9d15b57.chunk.css"
   },
   {
     "revision": "da5f6edf2a3e55764439",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/joplin-tables/static/js/2.07984dc0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "050a48330f5742555a1e",
+    "revision": "4cdacf838a3003c44661",
     "url": "/joplin-tables/static/js/main.0e9ebfa7.chunk.js"
   },
   {

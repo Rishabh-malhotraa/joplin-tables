@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/joplin-tables/precache-manifest.d88ba40efc9105f127edacf5a348a22b.js"
+  "/joplin-tables/precache-manifest.a3af17c96523e1667d02762e8a3a32f0.js"
 );
 
 self.addEventListener('message', (event) => {
